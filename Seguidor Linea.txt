@@ -1,0 +1,5 @@
+Un seguidor de linea es un robot móvil que sigue una trayectoria marcada con una linea la cual debe diferenciarse del entorno  la mayoría de veces es negra con un fondo blanco o a la inversa ,ahora podemos hacernos varias preguntas y pondré unas explicaciones rápidas
+
+por que tiene que la linea tiene que ser negra o blanca y el fondo de igual manera ?
+
+En la mayoría de concursos dentro de los seguidores de linea solo esta permitido usar sensores infla rojos(que ya lo diré mas adelante) que tienen un emisor y un receptor los cuales funcionan dependiendo de la luz reflejada por el piso ahora se debe tener en cuenta que el color negro absorbe las longitudes de honda de la luz es decir no la refleja y el color blanco refleja todas las longitudes de honda haciendo teniendo una diferencia de voltaje generada por el receptor que se activara o desactivara dependiendo de el color de la superficie en la que se refleje por eso se utilizan estos dos colores , se podría hacer con otros colores pero dificultaría el sesado debido a la sensibilidad de dichos sensores.
